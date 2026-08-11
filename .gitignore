@@ -1,0 +1,7 @@
+venv/
+*.pyc
+__pycache__/
+backend/app/dev.db
+.env
+.env.local
+instance/
